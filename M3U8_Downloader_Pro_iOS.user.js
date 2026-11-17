@@ -1,4 +1,3 @@
-
 {`// ==UserScript==
 // @name         M3U8 Downloader Pro · iOS Edition
 // @namespace    https://local.example/m3u8-pro
